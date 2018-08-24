@@ -5,7 +5,7 @@ function takeANumber(katzDeliLine, name){
 katzDeliLine.push(`${name}`);
 
 //return (`Welcome, ${name}. You are number ${katzDeliLine.length} in line.`);
-return (`The ${katzDeliLine.length}` line, belongs to: $[name]);
+return (`The ${katzDeliLine.length}` line, belongs to: $[name]`);
  }
 
 
